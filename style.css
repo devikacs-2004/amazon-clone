@@ -205,6 +205,13 @@ footer{
     color: #ffffff;
     font-size: 13px;
 }
+.foot-panel1 a{
+    color: #ffffff;
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
 .foot-panel2{
     background-color: #222f3d;
     color: white;
